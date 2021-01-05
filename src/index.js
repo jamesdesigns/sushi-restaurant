@@ -9,7 +9,7 @@ import './css/styles.css';
 
 
 
-render(<App/>, document.querySelector('#root'));
+render(<App/>, document.querySelector('#main'));
 
 // ReactDOM.render(
 //   <React.StrictMode>

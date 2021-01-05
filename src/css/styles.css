@@ -276,7 +276,7 @@ header.top h1 .ofThe {
           justify-content: center;
   -webkit-box-align: center;
           align-items: center;
-  /* background: url("images/anchor.svg") center no-repeat; */
+  background: url("/src/images/anchor.svg") center no-repeat;
   background-size: cover;
   padding: 0 1rem;
 }
@@ -321,7 +321,7 @@ header.top h3:after {
   height: 90vh;
   max-width: 1500px;
   margin: 0 auto;
-  margin-top: 5vh;
+  margin-top: 13vh;
   -webkit-perspective: 1000px;
           perspective: 1000px;
   -webkit-transform-style: preserve-3d;
