@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { render } from '@testing-library/react';
 import StorePicker from './components/StorePicker';
+import './css/styles.css';
 
 
 
