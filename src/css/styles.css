@@ -260,12 +260,13 @@ header.top {
   text-align: center;
 }
 header.top h1 {
-  font-size: 14.4rem;
+  font-size: 10.4rem;
   line-height: 0.7;
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: center;
-          justify-content: center;
+  justify-content: center;
+  padding-bottom: 1%;
 }
 header.top h1 .ofThe {
   display: -webkit-box;
@@ -321,7 +322,7 @@ header.top h3:after {
   height: 90vh;
   max-width: 1500px;
   margin: 0 auto;
-  margin-top: 13vh;
+  margin-top: 5vh;
   -webkit-perspective: 1000px;
           perspective: 1000px;
   -webkit-transform-style: preserve-3d;
