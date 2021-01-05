@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { render } from '@testing-library/react';
+import StorePicker from './components/StorePicker';
+
+
+
+render(<StorePicker />, document.querySelector('#root'));
 
 ReactDOM.render(
   <React.StrictMode>
