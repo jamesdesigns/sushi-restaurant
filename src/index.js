@@ -1,15 +1,13 @@
 import React from 'react';
-// import ReactDOM from 'react-dom';
 import './index.css';
-import App from './components/App';
 import reportWebVitals from './reportWebVitals';
 import { render } from '@testing-library/react';
-// import StorePicker from './components/StorePicker';
+import Router from './components/Router';
 import './css/styles.css';
 
 
 
-render(<App/>, document.querySelector('#main'));
+render(<Router/>, document.querySelector("#main"));
 
 // ReactDOM.render(
 //   <React.StrictMode>
