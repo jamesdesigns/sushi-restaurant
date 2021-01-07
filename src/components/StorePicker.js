@@ -2,7 +2,7 @@ import React from 'react';
 import { getFunName } from '../helpers';
 
 class StorePicker extends React.Component {
-  myniput = React.createRef();
+  myInput = React.createRef();
 
   goToStore = (event) => {
     // 1. Stop the form from submitting
