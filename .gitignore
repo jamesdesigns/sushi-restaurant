@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /src/base.js
-/images
+/images/sushi-a.jpeg
 
 # testing
 /coverage
