@@ -26,7 +26,7 @@ class Inventory extends React.Component {
       if (user) {
         this.authHandler({ user });
       }
-    })
+    });
   }
 
   authHandler = async authData => {
@@ -56,8 +56,8 @@ class Inventory extends React.Component {
 
   logout = async () => {
     await firebase.auth().signOut();
-    this.setState({ uid: null })
-  }
+    this.setState({ uid: null });
+  };
 
   render() {
     const logout = <button onClick={this.logout}>Log Out!</button>
@@ -77,8 +77,6 @@ class Inventory extends React.Component {
     }
 
     // 3. They must be the owner, just render the inventory
-
-
     return (
       <div className="Inventory">
         <h2>Inventory</h2>
