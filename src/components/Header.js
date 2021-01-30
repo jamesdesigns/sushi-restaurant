@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Header = props => (
   <header className="top">
   {/* <h1>Sushi</h1> */}
-  <img src="/images/sushi-logo.png" alt="Sushi Logo" width="323" height="221" /><br />
+  <img src="/images/sushi-logo.png" alt="Sushi Logo" width="269" height="184" /><br />
   <h3 className="tagline">
     <span>{props.tagline}</span>
   </h3>
