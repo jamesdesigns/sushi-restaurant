@@ -228,7 +228,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background: #d4d4d4;
+  background: red;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Open Sans', sans-serif;
@@ -289,7 +289,8 @@ header.top h1 .ofThe .of {
 header.top h3 {
   margin: 0;
   font-size: 2rem;
-  color: #f5a623;
+  font-weight: 600;
+  color: BLACK;
   position: relative;
   display: inline-block;
 }
@@ -300,7 +301,7 @@ header.top h3 span {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-header.top h3:before,
+/* header.top h3:before,
 header.top h3:after {
   display: block;
   z-index: 1;
@@ -315,7 +316,7 @@ header.top h3:after {
 header.top h3:after {
   top: auto;
   bottom: 7px;
-}
+} */
 .catch-of-the-day {
   display: -webkit-box;
   display: flex;
