@@ -78,7 +78,7 @@ class Inventory extends React.Component {
     // 3. They must be the owner, just render the inventory
     return (
       <div className="inventory">
-        <h2>Inventory</h2>
+        <h2>INVENTORY</h2>
         {logout}
         {Object.keys(this.props.fishes).map(key => (
           <EditFishForm 
