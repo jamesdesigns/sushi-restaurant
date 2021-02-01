@@ -1,6 +1,6 @@
 # Sushi Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates a CRUD system that allows the owner to edit the Sushi Menu for a sushi restaurant [Sushi Restuarant](https://competent-perlman-79ea28.netlify.app/).
 
 ## Available Scripts
 
