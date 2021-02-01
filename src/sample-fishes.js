@@ -63,7 +63,7 @@ const fishes = {
   },
 
   fish8: {
-    name: "Mussels",
+    name: "Philadelphia Roll",
     image: "/images/sushi-h.jpg",
     desc:
       "The best mussels from the Pacific Northwest with a full-flavored and complex taste.",
@@ -72,7 +72,7 @@ const fishes = {
   },
 
   fish9: {
-    name: "Tidal Wave",
+    name: "Las Vegas Roll",
     image: "/images/sushi-i.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
@@ -80,48 +80,48 @@ const fishes = {
     status: "available"
   },
   fish10: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "Calamari Tempura Roll",
+    image: "/images/sushi-j.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
     status: "available"
   },
   fish11: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "Energy Roll",
+    image: "/images/sushi-k.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
     status: "available"
   },
   fish12: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "Sashimi",
+    image: "/images/sushi-l.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
     status: "available"
   },
   fish13: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "House Special",
+    image: "/images/sushi-m.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
     status: "available"
   },
   fish14: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "Hungry Roll",
+    image: "/images/sushi-n.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
     status: "available"
   },
   fish15: {
-    name: "Tidal Wave",
-    image: "/images/sushi-i.jpg",
+    name: "Geisha Roll",
+    image: "/images/sushi-o.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
     price: 1299,
@@ -129,7 +129,7 @@ const fishes = {
   },
   drink1: {
     name: "Asahi Super Dry",
-    image: "/images/sapporo.jpg",
+    image: "/images/asahi.jpg",
     desc:
       "Asahi Super Dry is the most popular beer in Japan, produced by Asahi Breweries Ltd, a leading brewery and soft drinks company based in Tokyo, Japan.",
     price: 699,
@@ -137,7 +137,7 @@ const fishes = {
   },
   drink2: {
     name: "Sapporo Premium Beer",
-    image: "/images/sushi-i.jpg",
+    image: "/images/sapporo.jpg",
     desc:
       "A high quality lager, using some of the locally produced beer ingredients and authentic brewing process.",
     price: 999,
@@ -145,7 +145,7 @@ const fishes = {
   },
   drink3: {
     name: "Singha Premium Import",
-    image: "/images/sushi-i.jpg",
+    image: "/images/singha.jpg",
     desc:
       "Singha is a 5% abv pale lager produced by the Boon Rawd Brewery in Bangkok, Thailand.",
     price: 699,
@@ -153,7 +153,7 @@ const fishes = {
   },
   drink4: {
     name: "Tsingtao Beer",
-    image: "/images/sushi-i.jpg",
+    image: "/images/tsing.jpg",
     desc:
       "Tsingtao Beer is a well-hopped typical pilsner of 4.7%. Brewed using a combination of the best yeast and barley from around the world.",
     price: 899,
@@ -161,7 +161,7 @@ const fishes = {
   },
   drink5: {
     name: "Kirin Ichiban Beer",
-    image: "/images/sushi-i.jpg",
+    image: "/images/kirin.jpg",
     desc:
       "Kirin Ichiban, Beer at its Purest Kirin Ichiban is considered one of the purest beers in the world. This is made with a single wort (or first press) brewing process which extracts only the purest, most flavorful portion of the finest ingredients.",
     price: 899,
