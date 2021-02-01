@@ -66,8 +66,8 @@ const fishes = {
     name: "Philadelphia Roll",
     image: "/images/sushi-h.jpg",
     desc:
-      "The best mussels from the Pacific Northwest with a full-flavored and complex taste.",
-    price: 425,
+      "Tempura shrimp, spicy tuna, asparagus, avocado, and tobikko. Wrapped in soy paper, topped with spicy honey teriyaki sauce.",
+    price: 699,
     status: "available"
   },
 
@@ -91,7 +91,7 @@ const fishes = {
     name: "Energy Roll",
     image: "/images/sushi-k.jpg",
     desc:
-      "Spicy albacore, tempura scallion and avocado.",
+      "Coconut battered shrimp, jalapeños, and spicy sauce. Topped with tuna, avocado, cilantro, and eel sauce. Served with habanero sauce.",
     price: 1299,
     status: "available"
   },
@@ -115,7 +115,7 @@ const fishes = {
     name: "Hungry Roll",
     image: "/images/sushi-n.jpg",
     desc:
-      "Spicy albacore, tempura scallion and avocado.",
+      "Tuna, cucumbers, scallions and avocado.",
     price: 1299,
     status: "available"
   },
@@ -124,7 +124,7 @@ const fishes = {
     image: "/images/sushi-o.jpg",
     desc:
       "Spicy albacore, tempura scallion and avocado.",
-    price: 1299,
+    price: 1399,
     status: "available"
   },
   drink1: {
