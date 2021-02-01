@@ -1,64 +1,64 @@
 // This is just some sample data so you don't have to think of your own!
 const fishes = {
   fish1: {
-    name: "Pacific Halibut",
+    name: "Spicy Roll",
     image: "/images/sushi-a.jpg",
     desc:
-      "Everyone’s favorite white fish. We will cut it to the size you need and ship it.",
-    price: 1724,
+      "Spicy tempura red crab, tamago, smoked salmon, spicy sauce, and asparagus. Topped with jalapeno teriyaki sauce and sesame seeds.",
+    price: 1099,
     status: "available"
   },
 
   fish2: {
-    name: "Lobster",
+    name: "Cococabana",
     image: "/images/sushi-b.jpg",
     desc:
-      "These tender, mouth-watering beauties are a fantastic hit at any dinner party.",
-    price: 3200,
+      "Coconut battered shrimp, jalapeños, and spicy sauce. Topped with tuna, avocado, cilantro, and eel sauce. Served with habanero sauce.",
+    price: 1499,
     status: "available"
   },
 
   fish3: {
-    name: "Sea Scallops",
+    name: "Sunshine",
     image: "/images/sushi-c.jpg",
     desc:
-      "Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound",
-    price: 1684,
+      "Tempura shrimp, spicy tuna, asparagus, avocado, and tobikko. Wrapped in soy paper, topped with spicy honey teriyaki sauce.",
+    price: 1599,
     status: "unavailable"
   },
 
   fish4: {
-    name: "Mahi Mahi",
+    name: "Jenny",
     image: "/images/sushi-d.jpg",
     desc:
-      "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes. ",
-    price: 1129,
+      "Crab and avocado, topped with fresh salmon and paper-thin lemon slices. Drizzled with ponzu. ",
+    price: 1199,
     status: "available"
   },
 
   fish5: {
-    name: "King Crab",
+    name: "Fire Breathing Dragon",
     image: "/images/sushi-e.jpg",
     desc:
-      "Crack these open and enjoy them plain or with one of our cocktail sauces",
-    price: 4234,
+      "Crab, avocado, tempura onions, and spicy sauce, covered with cold smoked salmon, eel, ebi, and tobikko. Drizzled with spicy honey teriyaki sauce.",
+    price: 1399,
     status: "available"
   },
 
   fish6: {
-    name: "Atlantic Salmon",
+    name: "Samurai",
     image: "/images/sushi-f.jpg",
     desc:
-      "This flaky, oily salmon is truly the king of the sea. Bake it, grill it, broil it...as good as it gets!",
-    price: 1453,
+      "Spicy yellowtail, salmon, scallions, and cucumber. Rolled in tobikko.",
+    price: 1099,
     status: "available"
   },
 
   fish7: {
-    name: "Oysters",
+    name: "Crunchy Tuna",
     image: "/images/sushi-g.jpg",
-    desc: "A soft plump oyster with a sweet salty flavor and a clean finish.",
-    price: 2543,
+    desc: "Spicy tuna, tobikko, and cucumber. Rolled in tempura crunchies.",
+    price: 1399,
     status: "available"
   },
 
@@ -72,11 +72,99 @@ const fishes = {
   },
 
   fish9: {
-    name: "Jumbo Prawns",
+    name: "Tidal Wave",
     image: "/images/sushi-i.jpg",
     desc:
-      "With 21-25 two bite prawns in each pound, these sweet morsels are perfect for shish-kabobs.",
-    price: 2250,
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish10: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish11: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish12: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish13: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish14: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  fish15: {
+    name: "Tidal Wave",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Spicy albacore, tempura scallion and avocado.",
+    price: 1299,
+    status: "available"
+  },
+  drink1: {
+    name: "Asahi Super Dry",
+    image: "/images/sapporo.jpg",
+    desc:
+      "Asahi Super Dry is the most popular beer in Japan, produced by Asahi Breweries Ltd, a leading brewery and soft drinks company based in Tokyo, Japan.",
+    price: 699,
+    status: "available"
+  },
+  drink2: {
+    name: "Sapporo Premium Beer",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "A high quality lager, using some of the locally produced beer ingredients and authentic brewing process.",
+    price: 999,
+    status: "available"
+  },
+  drink3: {
+    name: "Singha Premium Import",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Singha is a 5% abv pale lager produced by the Boon Rawd Brewery in Bangkok, Thailand.",
+    price: 699,
+    status: "available"
+  },
+  drink4: {
+    name: "Tsingtao Beer",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Tsingtao Beer is a well-hopped typical pilsner of 4.7%. Brewed using a combination of the best yeast and barley from around the world.",
+    price: 899,
+    status: "available"
+  },
+  drink5: {
+    name: "Kirin Ichiban Beer",
+    image: "/images/sushi-i.jpg",
+    desc:
+      "Kirin Ichiban, Beer at its Purest Kirin Ichiban is considered one of the purest beers in the world. This is made with a single wort (or first press) brewing process which extracts only the purest, most flavorful portion of the finest ingredients.",
+    price: 899,
     status: "available"
   }
 };
